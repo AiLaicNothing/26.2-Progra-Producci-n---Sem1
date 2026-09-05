@@ -1,29 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\labj1501-tlsjp\\documents\\github\\26.2-progra-producci-n---sem1\\consoleapp1\\consoleapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\github\\26.2-progra-producci-n---sem1\\consoleapp1\\consoleapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\labj1501-tlsjp\\documents\\github\\26.2-progra-producci-n---sem1\\consoleapp1\\consoleapp1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\labj1501-tlsjp\\documents\\github\\26.2-progra-producci-n---sem1\\consoleapp1\\consoleapp1\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\consoleapp1\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\labj1501-tlsjp\\documents\\github\\26.2-progra-producci-n---sem1\\consoleapp1\\consoleapp1\\twopath_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\twopath_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\consoleapp1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\labj1501-tlsjp\\documents\\github\\26.2-progra-producci-n---sem1\\consoleapp1\\consoleapp1\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\consoleapp1\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\labj1501-tlsjp\\documents\\github\\26.2-progra-producci-n---sem1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\github\\26.2-progra-producci-n---sem1\\consoleapp1\\consoleapp1\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\consoleapp1\\twopath_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\twopath_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\github\\26.2-progra-producci-n---sem1\\consoleapp1\\consoleapp1\\suspiciousfountain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\suspiciousfountain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFB7169B-3655-47DA-AA26-B03CFDD4047C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +42,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Chest.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Chest.cs",
+              "ToolTip": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Chest.cs",
+              "RelativeToolTip": "ConsoleApp1\\Chest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T12:37:44.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuspiciousFountain.cs",
+              "DocumentMoniker": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\SuspiciousFountain.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SuspiciousFountain.cs",
+              "ToolTip": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\SuspiciousFountain.cs",
+              "RelativeToolTip": "ConsoleApp1\\SuspiciousFountain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T12:31:10.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Entity.cs",
+              "DocumentMoniker": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Entity.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Entity.cs",
-              "ToolTip": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Entity.cs",
+              "ToolTip": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Entity.cs",
               "RelativeToolTip": "ConsoleApp1\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,37 +85,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Player.cs",
+              "DocumentMoniker": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Player.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Player.cs",
-              "ToolTip": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Player.cs",
+              "ToolTip": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Player.cs",
               "RelativeToolTip": "ConsoleApp1\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-29T15:07:02.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TwoPath_Event.cs",
-              "DocumentMoniker": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\TwoPath_Event.cs",
+              "DocumentMoniker": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\TwoPath_Event.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\TwoPath_Event.cs",
-              "ToolTip": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\TwoPath_Event.cs",
+              "ToolTip": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\TwoPath_Event.cs",
               "RelativeToolTip": "ConsoleApp1\\TwoPath_Event.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-29T14:56:32.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Event.cs",
+              "DocumentMoniker": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Event.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Event.cs",
-              "ToolTip": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Event.cs",
+              "ToolTip": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Event.cs",
               "RelativeToolTip": "ConsoleApp1\\Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,31 +126,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Menu.cs",
+              "DocumentMoniker": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Menu.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Menu.cs",
-              "ToolTip": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Menu.cs",
+              "ToolTip": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Menu.cs",
               "RelativeToolTip": "ConsoleApp1\\Menu.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwEwAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-29T14:47:30.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\labj1501-tlsjp\\Documents\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\GitHub\\26.2-Progra-Producci-n---Sem1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-29T14:46:52.358Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

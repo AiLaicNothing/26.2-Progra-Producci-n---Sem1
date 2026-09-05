@@ -11,9 +11,11 @@ namespace ConsoleApp1
     {
         public Entity player;
         public List<Event> events;
+        private Random rand = new Random();
 
         private int currentEvents;
-        private int maxEvents;
+        private int maxEvents = 5;
+        private int eventsCompleted;
 
         public void Execute()
         {
@@ -31,7 +33,8 @@ namespace ConsoleApp1
             events = new List<Event>()
             {
                 new TwoPath_Event(),
-
+                new SuspiciousFountain(),
+                new Chest()
             };
         }
 
@@ -47,12 +50,20 @@ namespace ConsoleApp1
 
         private void LoopGameplay()
         {
-            while (player.Hp > 0 && currentEvents <= maxEvents)
+            while (player.Hp > 0 && eventsCompleted < maxEvents)
             {
                 Console.Clear();
 
+                Event currentEvent = events[rand.Next(events.Count)];
+
+                currentEvent.ExecuteEvent(this);
+
+                eventsCompleted++;
+
                 WaitInput();
             }
+
+            EndGame();
         }
 
         public void WaitInput()

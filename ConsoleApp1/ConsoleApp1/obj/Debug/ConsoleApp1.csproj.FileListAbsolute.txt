@@ -1,0 +1,8 @@
+C:\GitHub\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\GitHub\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\GitHub\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\GitHub\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\GitHub\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\GitHub\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\GitHub\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\GitHub\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config

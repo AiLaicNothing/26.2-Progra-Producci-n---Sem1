@@ -27,7 +27,10 @@ namespace ConsoleApp1
 
             if (optionSelected == "1")
             {
-                Console.WriteLine("As you walk this path,");
+                Console.WriteLine($"As you walk this path, {menu.player.Name} get ambushed");
+                Console.WriteLine("You take 1 damage");
+                menu.player.GetDamaged(2);
+                Console.WriteLine($"Current hp = {menu.player.Hp}");
             }
             else if (optionSelected == "2") 
             {
