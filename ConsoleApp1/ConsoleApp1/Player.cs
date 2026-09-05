@@ -10,6 +10,11 @@ namespace ConsoleApp1
     {
         public Player(string name)
         {
+            if (name.Length == 0)
+            {
+                throw new Exception("The name can not be empty");
+            }
+
             this.name = name;
             hp = 10;
         }

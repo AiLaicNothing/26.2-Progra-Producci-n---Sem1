@@ -41,9 +41,19 @@ namespace ConsoleApp1
         private void CreatePlayer()
         {
             Console.WriteLine("[Write your character name]");
+
             string playerName = Console.ReadLine();
 
-            player = new Player(playerName);
+            try
+            {
+                player = new Player(playerName);
+            }
+            catch (Exception e) 
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            //player = new Player(playerName);
             Console.WriteLine($"[{player.Name} is a adventures that has entered a Dungeon]");
             Console.WriteLine($"Currently has {player.Hp} Hp");
         }

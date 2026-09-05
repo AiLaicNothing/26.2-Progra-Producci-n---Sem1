@@ -6,3 +6,11 @@ C:\GitHub\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\Consol
 C:\GitHub\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\GitHub\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 C:\GitHub\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+C:\Users\labj1501-tlsjp\Desktop\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\labj1501-tlsjp\Desktop\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\labj1501-tlsjp\Desktop\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\labj1501-tlsjp\Desktop\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\labj1501-tlsjp\Desktop\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+C:\Users\labj1501-tlsjp\Desktop\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\labj1501-tlsjp\Desktop\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\labj1501-tlsjp\Desktop\26.2-Progra-Producci-n---Sem1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
